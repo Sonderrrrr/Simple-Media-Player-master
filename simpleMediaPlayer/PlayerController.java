@@ -25,14 +25,7 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 
 
-/**
- * create by Intellij IDEA
- * Author: Al-assad
- * E-mail: yulinying@1994.com
- * Github: https://github.com/Al-assad
- * Date: 2017/1/20 14:22
- * Description:
- */
+
 public class PlayerController {
 
     @FXML Button playBT;
